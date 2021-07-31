@@ -6,7 +6,7 @@
 //                                                                                              //
 //  AUTHOR:                 Luis Martin Garcia Sebastian - luis.garcia9408@gmail.com 			//
 //                                                                                              //
-//  REVISION:               0.1 - Monociclo														//
+//  REVISION:               0.1 - Segmentado//
 //                                                                                              //
 //**********************************************************************************************//
 
